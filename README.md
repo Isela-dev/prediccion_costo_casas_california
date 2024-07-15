@@ -1,6 +1,6 @@
-# prediccion_costo_casas_california
+# home_cost_forecast_california
 Cost prediction exercise for California homes, using Linear Regression  
-# Predicción de Precios de Casas en California 🏡
+# California Home Price Forecast 🏡
 
 This project uses a linear regression model to predict home prices in California. It is implemented on a Jupyter Notebook and uses data from the housing market.
 
