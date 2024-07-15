@@ -1,26 +1,26 @@
 # prediccion_costo_casas_california
-Ejercicio de predicción de costos para las casas en California, usando Regresión Lineal 
+Cost prediction exercise for California homes, using Linear Regression  
 # Predicción de Precios de Casas en California 🏡
 
-Este proyecto utiliza un modelo de regresión lineal para predecir los precios de las casas en California. Está implementado en un Jupyter Notebook y utiliza datos del mercado inmobiliario.
+This project uses a linear regression model to predict home prices in California. It is implemented on a Jupyter Notebook and uses data from the housing market.
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/downloads/release/python-390/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-green)](https://scikit-learn.org/stable/)
 
-## Descripción 📄
+## Description 📄
 
-En este proyecto, aplicamos técnicas de regresión lineal para construir un modelo que predice el precio de las casas en California. Utilizamos el conjunto de datos de viviendas de California, que incluye características como el número de habitaciones, el número de personas por hogar, la latitud, la longitud, entre otros.
+In this project, we apply linear regression techniques to build a model that predicts house prices in California. We use the California housing dataset, which includes characteristics such as number of bedrooms, number of persons per household, latitude, longitude, among others.
 
-## Funcionalidades ✨
+## Functionalities ✨
 
-- **Entrenamiento del modelo**: Entrena un modelo de regresión lineal utilizando datos históricos.
-- **Predicción**: Permite predecir el precio de una casa basándose en sus características.
-- **Visualización de datos**: Incluye gráficos y visualizaciones para entender mejor los datos y los resultados del modelo.
+- Model training**: Train a linear regression model using historical data.
+- Prediction**: Allows you to predict the price of a house based on its characteristics.
+- Data visualization**: Includes graphs and visualizations to better understand the data and model results.
 
-## Instalación ⚙️
+## Installation ⚙️
 
-1. Clona el repositorio:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/tu_usuario/tu_proyecto.git
